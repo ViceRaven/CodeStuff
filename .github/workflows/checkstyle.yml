@@ -44,3 +44,4 @@ jobs:
             exit 1
           else
             echo "No errors found!"
+            fi
